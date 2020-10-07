@@ -1,3 +1,8 @@
+#### Name: Arindam Ghosh
+ - Place: Kolkata, India
+ - Bio: Frontend Developer
+ - GitHub: [Arindam Ghosh](https://github.com/pappughosh)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
